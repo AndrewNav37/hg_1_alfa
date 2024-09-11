@@ -1,2 +1,8 @@
-# hg_1_alfa
-Curso Social Oplesk
+# Alfa - Hack 1
+
+| Alias  | Integrante |
+| ------------- | ------------- |
+| Alfa  | Victor Apolinares  |
+| Charlie  | Laura |
+| Bravo | Andres |
+| Delta | Jose Serrano |
